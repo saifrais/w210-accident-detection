@@ -1,0 +1,46 @@
+{
+    "dbscan_criterion": "IOU",
+    "dbscan_eps": {
+        "bicycle": 0.4,
+        "car": 0.25,
+        "default": 0.15,
+        "person": 0.4
+    },
+    "dbscan_min_samples": {
+        "bicycle": 0.05,
+        "car": 0.05,
+        "default": 0.0,
+        "person": 0.05
+    },
+    "min_cov_to_cluster": {
+        "bicycle": 0.075,
+        "car": 0.075,
+        "default": 0.005,
+        "person": 0.005
+    },
+    "min_obj_height": {
+        "bicycle": 4,
+        "car": 4,
+        "person": 4,
+        "default": 2
+    },
+    "target_classes": ["car", "bicycle", "person"],
+    "confidence_th": {
+        "car": 0.3,
+        "bicycle": 0.3,
+        "person": 0.2
+    },
+    "output_map": {
+        "person" : "person",
+        "car" : "car",
+        "bicycle" : "bicycle"
+    },
+    "color": {
+        "car": "green",
+        "person": "magenta",
+        "bicycle": "cyan"
+    },
+    "postproc_classes": ["car", "bicycle", "person"],
+    "image_height":320,
+    "image_width": 496
+}
