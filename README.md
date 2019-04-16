@@ -1,6 +1,6 @@
 # w251-accident-detection
 ## Deep Learning at the Edge
-**Problem Statement
+**Problem Statement**
 *Survival rate dependent on Emergency Response
 *Hit-and-run incidents rising with higher fatalities
 *More traffic cameras means less attention span
