@@ -35,3 +35,4 @@
 
 **Sample Data**
 ![](https://raw.githubusercontent.com/saifrais/w251-accident-detection/master/images/sample_data.png)
+
