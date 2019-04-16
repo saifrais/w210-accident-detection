@@ -94,12 +94,14 @@ def delete_blob(bucket_name, blob_name):
     
     
 def save_obj(obj, storeloc = "dict.pickle"):
+    import pickle
     pickle_out = open(storeloc,"wb")
     pickle.dump(obj, pickle_out)
     print('{} saved'.format(storeloc))
     pickle_out.close()
     
 def load_obj(storeloc="accident_df.pickle"):
+    import pickle
     import pandas as pd
     pickle_in = open(storeloc,"rb")
     obj = pickle.load(pickle_in)
