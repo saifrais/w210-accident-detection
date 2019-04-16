@@ -1,5 +1,5 @@
-# w251-accident-detection
-## Deep Learning at the Edge
+# w251-accident-detection: Deep Learning at the Edge
+## Business Case
 **Problem Statement**
 * Survival rate dependent on Emergency Response
 * Hit-and-run incidents rising with higher fatalities
@@ -19,3 +19,7 @@
 * 1,416 videos
 * 518,256 extracted video frames
 * Variety of weather and lighting amongst frames
+
+**Data Engineering and Annotation**
+
+**Sample Data**
