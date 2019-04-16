@@ -7,6 +7,5 @@
 * Automated notifications can assist monitoring
 * Improve emergency response time
 
-**Solution**
-Build an accident-detection algorithm for surveillance cameras and deploy a prototype on an edge device.
+**Solution:** Build an accident-detection algorithm for surveillance cameras and deploy a prototype on an edge device.
 
