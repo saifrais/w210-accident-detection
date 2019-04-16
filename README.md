@@ -21,5 +21,6 @@
 * Variety of weather and lighting amongst frames
 
 **Data Engineering and Annotation**
+![](https://raw.githubusercontent.com/saifrais/w251-accident-detection/master/images/dataflow.png)
 
 **Sample Data**
