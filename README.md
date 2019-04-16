@@ -1,4 +1,12 @@
 # w251-accident-detection
-## Deep Learning at the Edge: build a model to assist surveillance cameras to detect accidents, as they happen.
+## Deep Learning at the Edge
+**Problem Statement
+*Survival rate dependent on Emergency Response
+*Hit-and-run incidents rising with higher fatalities
+*More traffic cameras means less attention span
+*Automated notifications can assist monitoring
+*Improve emergency response time
 
-XXX
+**Solution**
+Build an accident-detection algorithm for surveillance cameras and deploy a prototype on an edge device.
+
