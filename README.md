@@ -4,8 +4,10 @@
 ## Contents
 * [Business Case](#Business-Case)
   * [Problem Statement](#Problem-Statement)
+  * [Solution](#Solution)
 * [Dataset](#Dataset)
-  * [Road Collision Videos](#Road Collision Videos)
+  * [Road Collision Videos](#Road-Collision-Videos)
+  * [Data Engineering and Annotation](#Data-Engineering-and-Annotation)
 
 ## Business Case
 **Problem Statement**
@@ -32,3 +34,4 @@
 ![](https://raw.githubusercontent.com/saifrais/w251-accident-detection/master/images/dataflow.png)
 
 **Sample Data**
+![](https://raw.githubusercontent.com/saifrais/w251-accident-detection/master/images/sample_data.png)
